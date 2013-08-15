@@ -14,6 +14,10 @@ Here is the meta viewport tag that this JavaScript was designed to work with:
 
 Here is an example of the iOS quirk I'm addressing. I temporarily added the above meta viewport tag to my personal site to illustrate the problem. Screenshots taken on an iPhone 5.
 
-## Before
+## Without the fix
 
-## After
+### Changing portrait to landscape
+
+![](screenshots/broken-portrait-before.png)
+
+## With the fix
