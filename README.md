@@ -45,3 +45,11 @@ The content is truncated and the user cannot zoom it.
 ![](screenshots/resolved-landscape-before.png)
 
 ![](screenshots/resolved-landscape-after.png)
+
+## License
+
+Public domain.
+
+## About me
+
+http://incompl.com
