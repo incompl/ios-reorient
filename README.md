@@ -20,4 +20,28 @@ Here is an example of the iOS quirk I'm addressing. I temporarily added the abov
 
 ![](screenshots/broken-portrait-before.png)
 
+![](screenshots/broken-portrait-after.png)
+
+The right side of the screen contains glitchy graphical artifacts repeating the main content. Sometimes the right side of the screen is just black. Either way, this is not good.
+
+### Changing portrait to landscape
+
+![](screenshots/broken-landscape-before.png)
+
+![](screenshots/broken-landscape-after.png)
+
+The content is truncated and the user cannot zoom it.
+
 ## With the fix
+
+### Changing portrait to landscape
+
+![](screenshots/resolved-portrait-before.png)
+
+![](screenshots/resolved-portrait-after.png)
+
+### Changing portrait to landscape
+
+![](screenshots/resolved-landscape-before.png)
+
+![](screenshots/resolved-landscape-after.png)
