@@ -1,6 +1,6 @@
 # ios-reorient
 
-## A fix for the iOS orientation change bug, specifically for _unzoomable_ webapps.
+## A fix for orientation change of unzoomable webapps on iOS. 
 
 There are plenty of workarounds for iOS reorientation quirks, but none of them worked for my case: a game with an unzoomable fixed layout that was subject to bizarre buggy behavior on orientation change. This code is my solution to that problem.
 
